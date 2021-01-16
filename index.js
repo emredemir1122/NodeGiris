@@ -70,7 +70,7 @@ fiyat:"23tl"
 
 
 app.get("*",function(req,res){
-  res.send("Hataa ! Yanlış sayfadasınız.Lütfen tarayıcınızın ayarlarıyla oynayınız.")
+  res.send("Hataaaa!!! Yanlış sayfadasınız.Lütfen tarayıcınızın ayarlarıyla oynayınız.")
 });
 
 
